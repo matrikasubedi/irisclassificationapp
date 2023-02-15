@@ -3,4 +3,4 @@ scikit-learn==0.22.2
 streamlit==1.18.1
 joblib==0.13.2
 numpy==1.19.5
-ipython==
+ipython==7.8.0
